@@ -1,6 +1,6 @@
 # Johnny Le - @Johnny0121
 
-Hi, I'm Johnny - A Web Developer, currently a student at Aston University. I can make the meanest fried eggs, and eat a little too much mochi. I enjoy pineapple on my pizzas, and can voice crack voluntarily.
+Hi, I'm Johnny - A Web Developer, currently a student at Aston University. I can make the meanest fried eggs, and eat a little too much mochi. I enjoy pineapple on my pizzas.
 
 ## Interests
 - :computer: Web Development
