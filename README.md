@@ -2,7 +2,7 @@
 
 Hi, I'm Johnny - A Web Developer, currently a student at Aston University. I can make the meanest fried eggs, and eat a little too much mochi. I enjoy pineapple on my pizzas, and can voice crack voluntarily.
 
-If you punch your computer monitor enough times, it'll eventually work.
+If you punch your computer monitor enough times, it should eventually work. Email me your results.
 
 ## Interests
 
