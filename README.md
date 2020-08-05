@@ -11,7 +11,7 @@ Hi, I'm Johnny - A Web Developer, currently a student at Aston University. I can
 I've got 5 League of Legends hardstuck MMR smurf accounts.
 
 ## Where else can I go?
-- :iphone: I've got a personal website that you can check out at [https://www.johnny-le.me](www.johnny-le.me)
+- :iphone: I've got a personal website that you can check out at [johnny-le.me](https://www.johnny-le.me)
 
 ## My dreams
 - I want my code to be cleaner than cillit bang
