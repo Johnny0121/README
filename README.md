@@ -5,16 +5,14 @@ Hi, I'm Johnny - A Web Developer, currently a student at Aston University. I can
 If you punch your computer monitor enough times, it should eventually work. Email me your results.
 
 ## Interests
-
-I've got 5 League of Legends hardstuck MMR smurf accounts.
-
-## Where else can I go?
 - :computer: Web Development
 - :pencil2: UX Design
 - :sunrise_over_mountains: Mountaineering and Bouldering
 - :tennis: Badminton
 
+I've got 5 League of Legends hardstuck MMR smurf accounts.
 
+## Where else can I go?
 - :iphone: I've got a personal website that you can check out at [www.johnny-le.me](www.johnny-le.me)
 
 ## Contact
