@@ -20,6 +20,9 @@ I've got 5 League of Legends hardstuck MMR smurf accounts.
 - :mailbox: [contact.lejohnny@gmail.com](contact.lejohnny@gmail.com)
 - :busts_in_silhouette: [https://www.linkedin.com/in/johnnyle-lej1/](https://www.linkedin.com/in/johnnyle-lej1/)
 
+## My dreams
+- I want my code to be cleaner than cillit bang
+
 Give me a Dorayaki and I'll do anything you want
 
 Turn that frown upside down ![Pepe](https://cdn.vox-cdn.com/thumbor/_cyhoY8L8m4XQWXXgJs6VRMyGUs=/0x0:630x630/1200x0/filters:focal(0x0:630x630):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/10838133/feelsgoodman.jpg)
