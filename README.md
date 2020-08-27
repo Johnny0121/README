@@ -15,10 +15,12 @@ I've got 5 League of Legends hardstuck MMR smurf accounts.
 
 ## My dreams
 - I want my code to be cleaner than cillit bang
+- Become a senior developer and a mentor
+- Open a coffee shop when I retire
 
-## Contact
+## Contacts
 
-- :mailbox: [contact.lejohnny@gmail.com](contact.lejohnny@gmail.com)
-- :busts_in_silhouette: [https://www.linkedin.com/in/johnnyle-lej1/](https://www.linkedin.com/in/johnnyle-lej1/)
+- [contact.lejohnny@gmail.com](contact.lejohnny@gmail.com)
+- [https://www.linkedin.com/in/johnnyle-lej1/](https://www.linkedin.com/in/johnnyle-lej1/)
 
 Give me a Dorayaki and I'll do anything you want.
