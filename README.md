@@ -1,6 +1,6 @@
 # Johnny Le - @Johnny0121
 
-Hi, I'm Johnny - A Web Developer, currently a student at Aston University. I can make the meanest fried eggs, and eat a little too much mochi. I enjoy pineapple on my pizzas. I'm good at throwing skittles and catching them in my mouth.
+Hi, I'm Johnny - A Web Developer, currently a student at Aston University. I can make the meanest fried eggs, and eat a little too much mochi. My favourite pizza topping is pineapple. I'm good at throwing skittles and catching them in my mouth.
 
 ## Interests
 - :computer: Web Development
