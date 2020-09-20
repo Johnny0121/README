@@ -8,15 +8,16 @@ Hi, I'm Johnny - A Web Developer, currently a student at Aston University. I can
 - :sunrise_over_mountains: Mountaineering and Bouldering
 - :tennis: Badminton
 
-I've got 5 League of Legends hardstuck MMR smurf accounts.
+I've got 5 League of Legends hardstuck MMR smurf accounts and suck at being imposter in Among Us.
 
 ## Where else can I go?
 - :iphone: I've got a personal website that you can check out at [johnny-le.me](https://www.johnny-le.me)
 
 ## My dreams
-- I want my code to be cleaner than cillit bang
-- Become a senior developer and a mentor
-- Open a coffee shop when I retire
+- Become an expert in data structures
+- Become a senior developer and mentor
+- Open a coffee shop
+- Have an army of junior developers at my command
 
 ## Contacts
 
