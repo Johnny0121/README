@@ -17,7 +17,7 @@ I've got 5 League of Legends hardstuck MMR smurf accounts and suck at being impo
 - Become an expert in data structures
 - Become a senior developer and mentor
 - Open a coffee shop
-- Have an army of junior developers at my command
+- Get a dog
 
 ## Contacts
 
