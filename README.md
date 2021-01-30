@@ -15,8 +15,7 @@ Hi, I'm Johnny - A Web Developer, currently a student at Aston University. I can
 - Become a senior developer and mentor
 - Become an expert in data structures
 - Open a coffee shop
-- Get a dog
-- Revive my goldfishes
+- Get a dog!
 
 ## Contacts
 
