@@ -14,7 +14,7 @@ Hi, I'm Johnny - A Web developer, currently a student at Aston University. I can
 ## My dreams
 - Become a senior developer and mentor
 - Become an expert in data structures
-- Open a coffee shop
+- Open a coffee shop if I ever retire as a developer
 - Get a dog!
 
 ## Contacts
