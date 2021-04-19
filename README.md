@@ -1,6 +1,6 @@
-# Johnny Le - @Johnny0121
+# Johnny Le
 
-Hi, I'm Johnny - A Web developer, currently a student at Aston University. I can throw skittles and catch them in my mouth, sometimes.
+Hi! - I'm a junior full-stack web developer, currently a student at Aston University. I can throw skittles and catch them in my mouth, sometimes.
 
 ## Interests
 - :computer: Web Development
