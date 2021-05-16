@@ -17,6 +17,9 @@ Hi! - I'm a junior full-stack web developer, currently a student at Aston Univer
 - Open a coffee shop if I ever retire as a developer
 - Get a dog!
 
+## My current project
+- [GoAni.me](https://github.com/Johnny0121/goani.me)
+
 ## Contacts
 
 - [contact.lejohnny@gmail.com](contact.lejohnny@gmail.com)
