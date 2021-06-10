@@ -16,6 +16,7 @@
 
 ## Where else can I go?
 - :iphone: I've got a personal website that you can check out at [johnny-le.me](https://www.johnny-le.me)
+- If the site isn't up, I've probably spent the renewel money on food
 
 ## My dreams
 - Become a senior developer and mentor
