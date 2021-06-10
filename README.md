@@ -1,6 +1,6 @@
 # Johnny Le
 
-Hi! - I'm a junior full-stack web developer, currently a student at Aston University. I can throw skittles and catch them in my mouth, sometimes.
+Hi! - I'm a graduate full-stack web developer and have recently graduated from Aston University. I can throw skittles and catch them in my mouth, sometimes.
 
 ## Interests
 - :computer: Web Development
