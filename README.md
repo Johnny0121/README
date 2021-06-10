@@ -33,14 +33,17 @@
 
 ## Languages and Tools
 <div>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Johnny0121&layout=compact&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
+  <div>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Johnny0121&layout=compact&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
+  </div>
+  <br>
   <p>
     <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/dotnet.svg" />
     <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/vuedotjs.svg" />
     <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/laravel.svg" />
     <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/jquery.svg" />
     <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/docker.svg" />
-    <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/azure.svg" />
+    <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/microsoftazure.svg" />
     <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/visualstudiocode.svg" />
     <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/visualstudio.svg" />
   </p>
