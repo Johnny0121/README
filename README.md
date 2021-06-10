@@ -1,8 +1,11 @@
 # Johnny Le
 
-Hi! - I'm a graduate full-stack web developer and have recently graduated from Aston University. Oh! I can also throw skittles and catch them in my mouth, sometimes. Seeing is believing, so I'll show you if the next time we meet
-
-##
+<div>
+  <span>Hi! - I'm a graduate full-stack web developer and have recently graduated from Aston University.</span>
+  <br>
+  <span>Oh! I can also throw skittles and catch them in my mouth, sometimes. Seeing is believing, so I'll show you if the next time we meet!</span>
+</div>
+<br>
 <img src="https://github-readme-stats.vercel.app/api?username=Johnny0121&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 
 ## Interests
