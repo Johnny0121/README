@@ -3,7 +3,7 @@
 <div>
   <span>Hi! - I'm a graduate full-stack web developer and have recently graduated from Aston University.</span>
   <br>
-  <span>Oh! I can also throw skittles and catch them in my mouth, sometimes.
+  <span>Oh! I can also throw skittles and catch them in my mouth, sometimes!
 </div>
 <br>
 <img src="https://github-readme-stats.vercel.app/api?username=Johnny0121&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
